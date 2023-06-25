@@ -161,6 +161,16 @@ span a:hover {
   cursor: pointer;
 }
 
+#mouth1:hover,
+#mouth2:hover,
+#mouth3:hover,
+#mouth4:hover,
+#mouth5:hover,
+#mouth6:hover,
+#mouth7:hover {
+  background-color: rgba(68, 161, 22, 0.9);
+}
+
 #mouth1 img,
 #mouth2 img,
 #mouth3 img,
